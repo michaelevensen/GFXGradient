@@ -1,4 +1,4 @@
 # GFXGradient
 CAGradientLayer being changed by UIScrollView contentOffset.
 
-![image](https://cloud.githubusercontent.com/assets/55974/19309983/35af2aae-9088-11e6-96b4-ecdf8ee55012.png)
+![gradient_scroll](https://cloud.githubusercontent.com/assets/55974/19309993/4373530e-9088-11e6-8818-bd5074c0af5d.gif)
